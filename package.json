@@ -1,0 +1,22 @@
+{
+  "name": "simpleblockchain",
+  "version": "1.0.0",
+  "description": "A simple blockchain built from scratch using Nodejs",
+  "main": "Block.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanith32/simpleBlockchain.git"
+  },
+  "author": "Nadika Bandara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanith32/simpleBlockchain/issues"
+  },
+  "homepage": "https://github.com/shanith32/simpleBlockchain#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
